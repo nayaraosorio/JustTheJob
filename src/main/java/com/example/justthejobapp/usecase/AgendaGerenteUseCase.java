@@ -13,7 +13,7 @@ public interface AgendaGerenteUseCase {
 
     void excluirAgendaGerente(Long idAgendaGerente);
 
-    // Adicione outros métodos conforme necessário para operações relacionadas à AgendaGerente
+    
 
 }
 
